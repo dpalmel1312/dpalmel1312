@@ -34,16 +34,6 @@ Actualmente, estoy cursando el segundo año del **FPGS de Administración de Sis
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
     <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox Badge" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
-</p>
-
----
-
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=BB86FC&icon_color=03DAC6" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=BB86FC&icon_color=03DAC6" alt="Lenguajes Más Usados" />
 </p>
 
 ---
@@ -54,8 +44,6 @@ Actualmente, estoy cursando el segundo año del **FPGS de Administración de Sis
 | :--- | :--- |
 | **Email** | danielpalaciosmelguizo1@gmail.com |
 | **Teléfono** | +34 601629708 |
-| **LinkedIn** | *[Tu URL de LinkedIn aquí]* |
-| **GitHub** | *[Tu URL de Perfil de GitHub aquí]* |
 
 <p align="center">
     <a href="mailto:danielpalaciosmelguizo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
