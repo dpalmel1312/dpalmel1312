@@ -43,7 +43,7 @@ Actualmente, estoy cursando el segundo año del **FPGS de Administración de Sis
 | Canal | Detalle |
 | :--- | :--- |
 | **Email** | danielpalaciosmelguizo1@gmail.com |
-| **Teléfono** | +34 601629708 |
+| **Teléfono** | +1-212-970-4133 |
 
 <p align="center">
     <a href="mailto:danielpalaciosmelguizo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
